@@ -14,7 +14,6 @@ using System.Text;
         {
             System.Console.WriteLine("1-Simple operation");
             System.Console.WriteLine("2-Tricky operation");
-            System.Console.WriteLine("3-To see prime numbers till the given number");
             System.Console.WriteLine("Write anything to exit");
             System.Console.Write("Choose:");
             string inputOperation;
