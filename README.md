@@ -18,7 +18,9 @@ The fourth part is case 2:
 ![image](https://github.com/user-attachments/assets/f99fcd83-89a2-4efe-9ef7-aef94e94e45f)  
   
 # Result  
-![Code_nsMfRiXloF](https://github.com/user-attachments/assets/8f305c57-b5f6-498a-8ade-10cd4a75a8e9)
+![Code_tpnvDo2eVl](https://github.com/user-attachments/assets/bad5a4a9-a341-4746-9a84-18b1e01812a1)
+
+
 
 
 
